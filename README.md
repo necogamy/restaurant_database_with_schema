@@ -1,2 +1,2 @@
-# restaurant_database_with_schema
-a restaurant database with schema
+# restaurant database with schema
+## Used, one-to-one, many-to-many and one-to-many relations
